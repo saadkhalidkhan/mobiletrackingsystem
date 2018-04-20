@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "725441446688",
+    "firebase_url": "https://tracking-bbe7d.firebaseio.com",
+    "project_id": "tracking-bbe7d",
+    "storage_bucket": "tracking-bbe7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725441446688:android:75669bc36f7b0ac5",
+        "android_client_info": {
+          "package_name": "com.example.hafiz_saad.androiddevicetrackingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725441446688-u4u4th1903t7l99e5talbjuvo0me7a2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hafiz_saad.androiddevicetrackingsystem",
+            "certificate_hash": "8247960bf2fd88c1d4ed3a15fda851dfba2f7361"
+          }
+        },
+        {
+          "client_id": "725441446688-ppiiuoi907ho1c42pojofa106c36ec1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzYPD12lIltJdEickpWUTc198v-1yY8cw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725441446688-ppiiuoi907ho1c42pojofa106c36ec1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725441446688:android:d6db28b15fcff8be",
+        "android_client_info": {
+          "package_name": "com.example.hafiz_saad.trackerdisplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725441446688-5ju4fk9ngng0ch76lf41gdbiapdl950t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hafiz_saad.trackerdisplay",
+            "certificate_hash": "8247960bf2fd88c1d4ed3a15fda851dfba2f7361"
+          }
+        },
+        {
+          "client_id": "725441446688-ppiiuoi907ho1c42pojofa106c36ec1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzYPD12lIltJdEickpWUTc198v-1yY8cw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725441446688-ppiiuoi907ho1c42pojofa106c36ec1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
